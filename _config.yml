@@ -1,25 +1,22 @@
-# Welcome to Jekyll!
-#
-
-# Site settings
+---
 title: Zalewski
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: |
   Indywidualne usługi księgowe
-owner: Zalewski # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+owner: Zalewski
+first_published: 2016
 email: michal@zalewski.it
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: ''
+url: http://yourdomain.com
 social:
-  #twitter: https://twitter.com/<username>
-  #github: https://github.com/<username>
   linkedin-square: https://pl.linkedin.com/in/michał-zalewski-07374710a/en
   facebook-official: https://facebook.com/<zalewski-page>
-  #google-plus-square: https://plus.google.com/u/0/+<username>
   email: michal@zalewski.it
-
-
-# Build settings
 markdown: kramdown
-#sass:
-#  style: compressed
