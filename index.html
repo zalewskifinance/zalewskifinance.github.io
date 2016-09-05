@@ -7,6 +7,19 @@ layout: landing
     <div class="inner">
         <h2>{{ site.title }}</h2>
         <p>{{ site.description | markdownify }}</p>
+        <ul class="icons">
+            {% for socloc in site.social %}
+            {% if socloc[1] %}
+            {% if socloc[0] == 'email' %}
+            <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o"
+            ><span class="label">E-mail</span></a></li>
+            {% else %}
+            <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}"
+            ><span class="label">{{ socloc[0] }}</span></a></li>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+        </ul>
     </div>
     <a href="#wartosci" class="more scrolly">Dowiedz się więcej</a>
 </section>
@@ -16,7 +29,7 @@ layout: landing
     <div class="inner">
         <header class="major">
             <h2>Wartości</h2>
-            <p>... czyli powody dla których warto ze mną pracować.</p>
+            <p>... czyli powody dla których warto ze mną współpracować.</p>
         </header>
         <section>
             <div class="row uniform">
@@ -34,52 +47,57 @@ layout: landing
             <div class="row uniform">
                 <div class="4u 12u$(small)">
                     <h3>Fakty</h3>
-                    <p class="box">Moja praca jest zawsze umocowana w faktach. Dla każdego z klientów
+                    <p class="box no-border">Moja praca jest zawsze umocowana w faktach. Dla każdego z klientów
                         przeprowadzam <strong>analizę profilu biznesowego</strong> w oparciu o dostarczoną dokumentację.
                     </p>
                 </div>
                 <div class="4u 12u$(small)">
                     <h3>Rzetelność</h3>
-                    <p class="box">Wykonuje swoją pracę rzetelnie oraz zgodnie z obecnie obowiązującymi regulacjami
+                    <p class="box no-border">Wykonuje swoją pracę rzetelnie oraz zgodnie z obecnie obowiązującymi
+                        regulacjami
                         prawnymi. Potwierdza to posiadany przez mnie <strong>Certyfikat Księgowy</strong> wydany
                         przez <strong>Ministra Finansów (63154/2013)</strong>.</p>
                 </div>
                 <div class="4u$ 12u$(small)">
                     <h3>Rozwój</h3>
-                    <p class="box">Dokładam wszelkich starań aby optymializacja finansów przedsiębiorstwa moich klientów
+                    <p class="box no-border">Dokładam wszelkich starań aby optymializacja finansów przedsiębiorstwa
+                        moich klientów
                         <strong>generowała dodatkowe środki</strong> na rozwój ich biznesu.</p>
                 </div>
         </section>
         <section>
             <div class="row uniform">
-                <div class="2u 12u$(small)">
-                </div>
                 <div class="4u 12u$(small)">
                     <img src="images/kontakt.png" alt=""/>
                 </div>
                 <div class="4u 12u$(small)">
                     <img src="images/terminowość.png" alt=""/>
                 </div>
-                <div class="2u 12u$(small)">
+                <div class="4u 12u$(small)">
+                    <img src="images/bezpieczenstwo.png" alt=""/>
                 </div>
 
 
             </div>
             <div class="row uniform">
-                <div class="2u 12u$(small)">
-                </div>
                 <div class="4u 12u$(small)">
                     <h3>Komunikacja</h3>
-                    <p class="box">Istotny jest dla mnie bezpośredni dialog z klientem. Jest on podstawą współpracy,
-                        zarówno przy ustalaniu potrzeb oraz oczekiwań jak i rozwiązywania bierzących problemów
+                    <p class="box no-border">Istotny jest dla mnie bezpośredni dialog z klientem. Jest on podstawą
+                        współpracy,
+                        zarówno przy ustalaniu potrzeb oraz oczekiwań jak i rozwiązywania bieżących problemów
                         klienta.</p>
                 </div>
                 <div class="4u 12u$(small)">
                     <h3>Terminowość</h3>
-                    <p class="box">Przy współpracy ze swoimi klientami przejmuję formalności związane z obsługą finansów
+                    <p class="box no-border">Przy współpracy ze swoimi klientami przejmuję formalności związane z
+                        obsługą finansów
                         ich biznesu, dbając o to aby wszystkie były wykonane w odpowiednim terminie.</p>
                 </div>
-                <div class="2u 12u$(small)">
+                <div class="4u 12u$(small)">
+                    <h3>Bezpieczeństwo</h3>
+                    <p class="box no-border">Posiadam <strong>ubezpieczenie od odpowiedzialności cywilnej</strong> z
+                        tytułu świadczonych
+                        usług, aby zapewnić bezpieczeństwo finansów moich klientów.</p>
                 </div>
             </div>
         </section>
@@ -98,13 +116,16 @@ layout: landing
                 <img src="images/profil.png" alt=""/>
             </div>
             <div class="9u 12u$(small)">
-                <p class="align-justify">
+                <p class="align-left">
 
                     Jestem absolwentem dwustopniowych studiów na kierunku Finanse i Rachunkowość
 
                     (specjalizacja Rachunkowość Przedsiębiorstw) Szkoły Głównej Gospodarstwa
 
-                    Wiejskiego w Warszawie. Moja droga zawodowa od wielu lat związana jest z branżą finansowo-księgową.
+                    Wiejskiego w Warszawie.
+                </p>
+                <p class="align-left">
+                    Moja droga zawodowa od wielu lat związana jest z branżą finansowo-księgową.
                     Przez ten czas
 
                     miałem przyjemność współpracować  z przedsiębiorstwami o zróżnicowanej skali działalności
@@ -115,13 +136,18 @@ layout: landing
 
                     kontekście jego działalności biznesowej. Swoje dotychczasowe doświadczenie z powodzenim
 
-                    wykorzystuję przy świadczeniu najlepszej jakości usług swoim klientom. <strong>Moim zadaniem
+                    wykorzystuję przy świadczeniu najlepszej jakości usług swoim klientom.
 
-                    jest kreatywne wsparcie klientów w prowadzeniu swojego biznesu.</strong>
-
-                    Jestem w trakcie aplikacji na Biegłego Rewidenta w Krajowej Izbie Biegłych Rewidentów (nr
+                    Obecnie jestem w trakcie aplikacji na Biegłego Rewidenta w Krajowej Izbie Biegłych Rewidentów (nr
 
                     albumu 15645).
+                </p>
+                <p class="align-left">
+                    <strong>Moim zadaniem jest kreatywne wsparcie klientów w prowadzeniu ich biznesu.</strong>
+                </p>
+
+                <p class="align-right">
+                    <strong>Michał Zalewski</strong>
                 </p>
             </div>
         </div>
@@ -144,7 +170,7 @@ layout: landing
                 <ul class="alt">
                     <li>Prowadzenie Podatkowej Księgi Przychodów i Rozchodów</li>
                     <li>Prowadzenie Ksiąg Handlowych</li>
-                    <li>Kontrolę dokumentów pod względem formalno-rachunkowym</li>
+                    <li>Kontrola dokumentów pod względem formalno-rachunkowym</li>
                     <li>Prowadzenie Ewidencji VAT</li>
                     <li>Prowadzenie Ewidencji Środków Trwałych i Wyposażenia</li>
                     <li>Prowadzenie Ewidencji Przychodów dla ryczałtu</li>
@@ -173,14 +199,23 @@ layout: landing
                     <li>Wyprowadzanie zaległości księgowych</li>
                     <li>Wsparcie przy rozpoczęciu działalności</li>
                 </ul>
+
             </div>
         </div>
+        <br>
+        <p class="align-center">
+            <br>
+            Wszystkie usługi świadczone są zarówno w języku polskim jak i angielskim.
+        </p>
     </div>
 </section>
 <section id="cennik" class="wrapper style5 special">
     <div class="inner">
-        <h4>Cennik</h4>
-        <p>Przykładowe ceny NETTO. Ceny uzależnione są od indywidualnych ustaleń co do zakresu prac i ilości dokumentów.</p>
+        <header class="major">
+            <h2>Cennik</h2>
+            <p class="align-center">Przykładowe ceny NETTO. Ceny uzależnione są od indywidualnych ustaleń co do zakresu
+                prac i ilości dokumentów.</p>
+        </header>
         <h5>Usługi księgowe</h5>
         <div class="table-wrapper align-left">
             <table>
@@ -211,7 +246,6 @@ layout: landing
                     <td>Księgi rachunkowe</td>
                     <td>od 500 zł</td>
                 </tr>
-                <tr>
                 </tbody>
             </table>
         </div>
@@ -241,11 +275,6 @@ layout: landing
                     <td>Inna umowa cywilno-prawna</td>
                     <td>20,00 zł/osoba na miesiąc (wypłatę)</td>
                 </tr>
-                <tr>
-                    <td>Księgi rachunkowe</td>
-                    <td>od 500 zł</td>
-                </tr>
-                <tr>
                 </tbody>
             </table>
         </div>
@@ -261,7 +290,7 @@ layout: landing
                 <tbody>
                 <tr>
                     <td>Wsparcie przy rozpoczęciu działalności gospodarczej</td>
-                    <td>Gratis <strong>(1)</strong></td>
+                    <td>Gratis <strong><sup>1</sup></strong></td>
                 </tr>
                 <tr>
                     <td>Weryfikacja rozliczeń z poprzednich okresów</td>
@@ -271,19 +300,16 @@ layout: landing
                     <td>Konsultacje w zakresie prawa podatkowego</td>
                     <td>150 zł/godzina</td>
                 </tr>
-                <tr>
-                    <td>Umowa o dzieło</td>
-                    <td>20,00 zł/osoba na miesiąc (wypłatę)</td>
-                </tr>
                 </tbody>
             </table>
-            <p class="align-center"><strong>(1)</strong> Usługa gratis dla firm, które skorzystają również z innych usług.</p>
+            <p class="align-center"><strong><sup>1</sup></strong> Usługa gratis dla firm, które skorzystają również z
+                innych usług.</p>
         </div>
     </div>
 </section>
 
 <!-- KONTAKT -->
-<section id="kontakt" class="wrapper style4 special">
+<section id="kontakt" class="wrapper style1 special">
     <div class="inner">
 
         <header class="major">
@@ -293,26 +319,62 @@ layout: landing
                 formularza, bądź bezpośrednich danych kontaktowych.
             </p>
         </header>
-        <form method="post" action="">
-            <div class="row uniform">
-                <div class="6u 12u$(xsmall)">
-                    <input type="text" name="name" id="form-name" value="" placeholder="Imię"/>
-                </div>
-                <div class="6u$ 12u$(xsmall)">
-                    <input type="email" name="email" id="form-email" value="" placeholder="Email"/>
-                </div>
-
-                <div class="12u$">
-                    <textarea name="demo-message" id="demo-message" placeholder="Wprowadź swoją wiadomość."
-                              rows="6"></textarea>
-                </div>
-                <div class="12u$">
-                    <ul class="actions">
-                        <li><input type="submit" value="Wyślij" class="special"/></li>
-                    </ul>
-                </div>
+        <div class="row uniform vertical">
+            <div class="4u 12u$(small)">
+                <h5>Dane kontaktowe</h5>
+                <ul style="list-style: none; padding-left: 0; padding-bottom: 2em">
+                    <li>Michał Zalewski</li>
+                    <li><a href="tel:+48501102650">+48 501-102-650</a></li>
+                    <li><a href="mailto:michal_zalewski@interia.pl">michal_zalewski@interia.pl</a></li>
+                </ul>
             </div>
-        </form>
+            <div class="8u 12u$(small)">
+                <form method="post" action="">
+                    <div class="row uniform">
+                        <div class="6u 12u$(xsmall)">
+                            <input type="text" name="name" id="form-name" value="" placeholder="Imię"/>
+                        </div>
+                        <div class="6u$ 12u$(xsmall)">
+                            <input type="email" name="email" id="form-email" value="" placeholder="Email"/>
+                        </div>
+
+                        <div class="12u$">
+                    <textarea name="demo-message" id="demo-message" placeholder="Wprowadź swoją wiadomość."
+                              rows="4"></textarea>
+                        </div>
+                        <div class="12u$">
+                            <ul class="actions">
+                                <li><input type="submit" value="Wyślij" class="special"/></li>
+                            </ul>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="kontakt" class="wrapper style2 special">
+    <div class="inner">
+        <div class="row uniform">
+            <div class="6u 12u$(small)">
+                <h5>Dane firmy</h5>
+                <ul style="list-style: none; padding-left: 0; padding-bottom: 2em">
+                    <li>Biuro Rachunkowe ARES</li>
+                    <li>NIP: 952-186-88-69</li>
+                    <li>REGON: 362806146</li>
+                </ul>
+            </div>
+
+            <div class="6u 12u$(small)">
+                <h5>Lokalizacja - adres</h5>
+                <ul style="list-style: none; padding-left: 0; padding-bottom: 2em">
+                    <li>Waraszawa Bemowo</li>
+                    <li>ul. Czumy 4/33</li>
+                    <li>03-335 Warszawa</li>
+                </ul>
+            </div>
+        </div>
+    </div>
     </div>
 </section>
 <!-- MAPA --->

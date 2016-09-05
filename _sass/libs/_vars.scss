@@ -28,7 +28,7 @@
 
 // Font.
 	$font: (
-		family:				('Open Sans', Helvetica, sans-serif),
+		family:				('Open Sans', sans-serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				400,
 		weight-bold:		600,
@@ -47,12 +47,12 @@
 		border2-bg:			rgba(144,144,144,0.5),
 
 		accent1: (
-			bg:				#ffffff,
+			bg:				#F0F0F0,
 			fg-bold:		#000000,
 			fg:				mix(#ffffff, #000000, 25%),
 			fg-light:		mix(#ffffff, #000000, 40%),
 			border:			rgba(0,0,0,0.125),
-			border-bg:		rgba(255,255,255,0.075),
+			border-bg:		rgba(64,64,64,0.075),
 			border2:		rgba(0,0,0,0.25),
 			border2-bg:		rgba(255,255,255,0.2)
 		),
@@ -69,7 +69,7 @@
 		),
 
 		accent3: (
-			bg:				#00f0ff,
+			bg:				#ffffff,
 			fg-bold:		#ffffff,
 			fg:				mix(#00f0ff, #ffffff, 25%),
 			fg-light:		mix(#00f0ff, #ffffff, 40%),
@@ -91,7 +91,7 @@
 		),
 
 		accent5: (
-			bg:				#b7b7b7,
+			bg:				#ffffff,
 			fg-bold:		#000000,
 			fg:				mix(#ffffff, #000000, 25%),
 			fg-light:		mix(#ffffff, #000000, 40%),

@@ -8,15 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: |
-  Indywidualne usługi księgowe
+description: Usługi księgowe skrojone na miarę
 owner: Zalewski
 first_published: 2016
-email: michal@zalewski.it
+email: michal_zalewski@interia.pl
 baseurl: ''
 url: http://yourdomain.com
 social:
   linkedin-square: https://pl.linkedin.com/in/michał-zalewski-07374710a/en
   facebook-official: https://facebook.com/<zalewski-page>
-  email: michal@zalewski.it
+  email: mailto:michal_zalewski@interia.pl
 markdown: kramdown

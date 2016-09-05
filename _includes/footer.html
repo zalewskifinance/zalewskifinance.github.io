@@ -1,47 +1,5 @@
 <!-- Footer -->
 <footer id="footer">
-    <div class="inner">
-        <div class="row uniform special">
-            <div class="4u 12u$(small)">
-                <h5>Lokalizacja</h5>
-                <ul style="list-style: none; padding-left: 0; padding-bottom: 2em">
-                    <li>Waraszawa Bemowo</li>
-                    <li>ul. Czumy 4/33i</li>
-                    <li>03-335 Warszawa</li>
-                </ul>
-            </div>
-            <div class="4u 12u$(small)">
-                <h5>Kontakt</h5>
-                <ul style="list-style: none; padding-left: 0; padding-bottom: 2em">
-                    <li>Michał Zalewski</li>
-                    <li>+48 501102650</li>
-                    <li>michal@zalewski.it</li>
-                </ul>
-            </div>
-            <div class="4u 12u$(small)">
-                <h5>Dane firmy</h5>
-                <ul style="list-style: none; padding-left: 0; padding-bottom: 2em">
-                    <li>Biuro Rachunkowe ARES</li>
-                    <li>NIP: 952-186-88-69</li>
-                    <li>REGON: 362806146</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-
-    <ul class="icons">
-        {% for socloc in site.social %}
-        {% if socloc[1] %}
-        {% if socloc[0] == 'email' %}
-        <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o"
-        ><span class="label">E-mail</span></a></li>
-        {% else %}
-        <li><a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}"
-        ><span class="label">{{ socloc[0] }}</span></a></li>
-        {% endif %}
-        {% endif %}
-        {% endfor %}
-    </ul>
     <ul class="copyright">
         <li>&copy; {% assign thisyear = site.time | date: "%Y" %}
             {% if site.first_published %}

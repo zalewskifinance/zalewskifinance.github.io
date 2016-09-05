@@ -458,7 +458,13 @@ $baseurl: '{{ site.baseurl }}/images';
 			border-radius: 0;
 			padding: 0;
 		}
+
+		&.no-border {
+			border: none;
+		}
 	}
+
+
 
 /* Icon */
 
@@ -1735,7 +1741,7 @@ $baseurl: '{{ site.baseurl }}/images';
 /* Footer */
 
 	#footer {
-		@include padding(6em, 0);
+		@include padding(2em, 0);
 		background-color: darken(_palette(bg), 8);
 		text-align: center;
 
@@ -1758,6 +1764,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			list-style: none;
 			padding: 0;
 			text-transform: uppercase;
+			margin-bottom:0;
 
 			li {
 				border-left: solid 1px _palette(fg-light);
@@ -1791,11 +1798,11 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 
 		@include breakpoint(medium) {
-			@include padding(4em, 3em);
+			@include padding(1em, 1em);
 		}
 
 		@include breakpoint(small) {
-			@include padding(3em, 2em);
+			@include padding(0.5em, 0.5em);
 		}
 	}
 
@@ -1835,3 +1842,12 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 	}
+
+/* Vertical align */
+
+.row {
+	&.vertical {
+		display: flex;
+		align-items: center;
+	}
+}
