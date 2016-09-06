@@ -555,6 +555,10 @@ $baseurl: '{{ site.baseurl }}/images';
 				width: 100%;
 			}
 		}
+
+		&.spacing {
+			padding: 2em 2em;
+		}
 	}
 
 /* List */
@@ -750,6 +754,13 @@ $baseurl: '{{ site.baseurl }}/images';
 		margin: 0 0 _size(element-margin) 0;
 		width: 100%;
 
+		&.small {
+			font-size: 0.8em;
+
+			td {
+				padding: 0.2em;
+			}
+		}
 		tbody {
 			tr {
 				border: solid 1px _palette(border);
@@ -802,6 +813,7 @@ $baseurl: '{{ site.baseurl }}/images';
 							border-top-width: 1px;
 						}
 					}
+
 				}
 			}
 
@@ -813,6 +825,7 @@ $baseurl: '{{ site.baseurl }}/images';
 				border-top: 0;
 			}
 		}
+
 	}
 
 /* Button */
@@ -1774,6 +1787,10 @@ $baseurl: '{{ site.baseurl }}/images';
 			padding: 0;
 			text-transform: uppercase;
 			margin-bottom:0;
+
+			&.small {
+				font-size: 0.6em;
+			}
 
 			li {
 				border-left: solid 1px _palette(fg-light);
