@@ -758,7 +758,8 @@ $baseurl: '{{ site.baseurl }}/images';
 			font-size: 0.8em;
 
 			td {
-				padding: 0.2em;
+				padding-top: 0.2em;
+				padding-bottom: 0.2em;
 			}
 		}
 		tbody {
