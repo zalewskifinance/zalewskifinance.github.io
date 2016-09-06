@@ -34,14 +34,24 @@ layout: landing
         <section>
             <div class="row uniform">
                 <div class="4u 12u$(small)">
-                    <img class="image spacing" src="images/icons2/fakty.png" alt=""/>
+                    <img src="images/fakty.png" alt=""/>
+                </div>
+                <div class="4u 12u$(small)">
+                    <img src="images/certyfikat.png" alt=""/>
+                </div>
+                <div class="4u 12u$(small)">
+                    <img src="images/rozwoj.png" alt=""/>
+                </div>
+
+            </div>
+            <div class="row uniform">
+                <div class="4u 12u$(small)">
                     <h3>Fakty</h3>
                     <p class="box no-border">Moja praca jest zawsze umocowana w faktach. Dla każdego z klientów
                         przeprowadzam <strong>analizę profilu biznesowego</strong> w oparciu o dostarczoną dokumentację.
                     </p>
                 </div>
                 <div class="4u 12u$(small)">
-                    <img class="image spacing" src="images/icons2/rzetelnosc.png" alt=""/>
                     <h3>Rzetelność</h3>
                     <p class="box no-border">Wykonuje swoją pracę rzetelnie oraz zgodnie z obecnie obowiązującymi
                         regulacjami
@@ -49,7 +59,6 @@ layout: landing
                         przez <strong>Ministra Finansów (63154/2013)</strong>.</p>
                 </div>
                 <div class="4u$ 12u$(small)">
-                    <img class="image spacing" src="images/icons2/rozwoj.png" alt=""/>
                     <h3>Rozwój</h3>
                     <p class="box no-border">Dokładam wszelkich starań aby optymializacja finansów przedsiębiorstwa
                         moich klientów
@@ -59,7 +68,19 @@ layout: landing
         <section>
             <div class="row uniform">
                 <div class="4u 12u$(small)">
-                    <img class="image spacing" src="images/icons2/komunikacja.png" alt=""/>
+                    <img src="images/kontakt.png" alt=""/>
+                </div>
+                <div class="4u 12u$(small)">
+                    <img src="images/terminowość.png" alt=""/>
+                </div>
+                <div class="4u 12u$(small)">
+                    <img src="images/bezpieczenstwo.png" alt=""/>
+                </div>
+
+
+            </div>
+            <div class="row uniform">
+                <div class="4u 12u$(small)">
                     <h3>Komunikacja</h3>
                     <p class="box no-border">Istotny jest dla mnie bezpośredni dialog z klientem. Jest on podstawą
                         współpracy,
@@ -67,14 +88,12 @@ layout: landing
                         klienta.</p>
                 </div>
                 <div class="4u 12u$(small)">
-                    <img class="image spacing" src="images/icons2/terminowosc.png" alt=""/>
                     <h3>Terminowość</h3>
                     <p class="box no-border">Przy współpracy ze swoimi klientami przejmuję formalności związane z
                         obsługą finansów
                         ich biznesu, dbając o to aby wszystkie były wykonane w odpowiednim terminie.</p>
                 </div>
                 <div class="4u 12u$(small)">
-                    <img class="image spacing" src="images/icons2/bezpieczenstwo.png" alt=""/>
                     <h3>Bezpieczeństwo</h3>
                     <p class="box no-border">Posiadam <strong>ubezpieczenie od odpowiedzialności cywilnej</strong> z
                         tytułu świadczonych
@@ -199,8 +218,8 @@ layout: landing
                 prac i ilości dokumentów.</p>
         </header>
         <h5>Usługi księgowe</h5>
-        <div class="table-wrapper small align-left">
-            <table class="small">
+        <div class="table-wrapper align-left">
+            <table>
                 <thead>
                 <tr>
                     <th>Nazwa</th>
@@ -232,8 +251,8 @@ layout: landing
             </table>
         </div>
         <h5>Kadry i płace</h5>
-        <div class="table-wrapper small align-left">
-            <table class="small">
+        <div class="table-wrapper align-left">
+            <table>
                 <thead>
                 <tr>
                     <th>Nazwa</th>
@@ -261,8 +280,8 @@ layout: landing
             </table>
         </div>
         <h5>Pozostałe usługi</h5>
-        <div class="table-wrapper small align-left">
-            <table class="small">
+        <div class="table-wrapper align-left">
+            <table>
                 <thead>
                 <tr>
                     <th>Nazwa</th>
@@ -311,7 +330,7 @@ layout: landing
                 </ul>
             </div>
             <div class="8u 12u$(small)">
-                <form method="post" action="https://formspree.io/zalewski.office@gmail.com" method="POST">
+                <form method="post" action="">
                     <div class="row uniform">
                         <div class="6u 12u$(xsmall)">
                             <input type="text" name="name" id="form-name" value="" placeholder="Imię"/>
