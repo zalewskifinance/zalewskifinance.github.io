@@ -373,4 +373,12 @@ layout: landing
     ga('create', 'UA-83717376-1', 'auto');
     ga('send', 'pageview');
 
+    if (document.getElementsByTagName("title").length == 0) {
+
+        var head = document.getElementsByTagName("head")[0];
+        var title = document.createElement("title");
+        title.appendChild(document.createTextNode("{{site.title}}"));
+        head.appendChild(title);
+    }
+
 </script>
