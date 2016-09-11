@@ -1,5 +1,6 @@
 ---
 title: Zalewski
+pagetitle: Zalewsiki - Usługi księgowe skrojone na miarę
 timezone: UTC
 collections:
   posts:
@@ -16,6 +17,6 @@ baseurl: ''
 url: http://yourdomain.com
 social:
   linkedin-square: https://pl.linkedin.com/in/michał-zalewski-07374710a/en
-  facebook-official: https://facebook.com/<zalewski-page>
+#  facebook-official: https://facebook.com/<zalewski-page>
   email: mailto:michal_zalewski@interia.pl
 markdown: kramdown
