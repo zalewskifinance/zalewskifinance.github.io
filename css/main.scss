@@ -1890,3 +1890,9 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 }
+
+@media screen and (max-width: 600px) {
+	#contact-form {
+		display: none;
+	}
+}
