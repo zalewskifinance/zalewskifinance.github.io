@@ -305,17 +305,18 @@ layout: landing
                 formularza, bądź bezpośrednich danych kontaktowych.
             </p>
         </header>
+        <form method="post" action="https://formspree.io/zalewski.office@gmail.com" method="POST">
         <div class="row uniform vertical">
             <div class="4u 12u$(small)">
                 <h5>Dane kontaktowe</h5>
-                <ul style="list-style: none; padding-left: 0; padding-bottom: 2em">
+                <p class="align-center"></p>
                     <li>Michał Zalewski</li>
                     <li><a href="tel:+48501102650">+48 501-102-650</a></li>
                     <li><a href="mailto:michal_zalewski@interia.pl">michal_zalewski@interia.pl</a></li>
                 </ul>
             </div>
-            <div class="8u 12u$(small)">
-                <form method="post" action="https://formspree.io/zalewski.office@gmail.com" method="POST">
+            <div class="8u 12u$(small)" id="contact-form">
+
                     <div class="row uniform">
                         <div class="6u 12u$(xsmall)">
                             <input type="text" name="name" id="form-name" value="" placeholder="Imię"/>
@@ -325,7 +326,7 @@ layout: landing
                         </div>
 
                         <div class="12u$">
-                    <textarea name="demo-message" id="demo-message" placeholder="Wprowadź swoją wiadomość."
+                            <textarea name="demo-message" id="demo-message" placeholder="Wprowadź swoją wiadomość."
                               rows="4"></textarea>
                         </div>
                         <div class="12u$">
@@ -334,9 +335,10 @@ layout: landing
                             </ul>
                         </div>
                     </div>
-                </form>
+
             </div>
         </div>
+        </form>
     </div>
 </section>
 <section class="wrapper style2 special">
