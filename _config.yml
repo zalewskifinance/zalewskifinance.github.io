@@ -1,5 +1,6 @@
 ---
 title: Zalewski
+#Landing page use page.title instead of below config due to SEO constraints
 pagetitle: Zalewski - Usługi księgowe skrojone na miarę
 timezone: UTC
 collections:
