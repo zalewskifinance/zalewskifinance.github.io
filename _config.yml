@@ -18,6 +18,6 @@ baseurl: ''
 url: http://yourdomain.com
 social:
   linkedin-square: https://pl.linkedin.com/in/michał-zalewski-07374710a/en
-#  facebook-official: https://facebook.com/<zalewski-page>
+  facebook-official: https://www.facebook.com/BRZalewski/
   email: mailto:michal_zalewski@interia.pl
 markdown: kramdown
