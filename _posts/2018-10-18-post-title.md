@@ -1,4 +1,7 @@
-
+ayout: post
+title:  "Split payment, czyli nie taki diabeł straszny"
+date:   2018-06-21 01:30:01
+categories: [ blog, vat ]
 # JPK na żądanie od 1 lipca 2018 r. - kazda firma musi być gotowa
 
 ## Od 1 lipca br. wszyscy podatnicy prowadzący księgi podatkowe i dowody księgowe za pomocą programów komputerowych będą musieli przekazywać na żądanie urzędu skarbowego dodatkowe pliki JPK. Chodzi o dane o fakturach, księgach rachunkowych, czy stanie magazynów.
