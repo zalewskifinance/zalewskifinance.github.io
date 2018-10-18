@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Split payment, czyli nie taki diabeł straszny"
-date:   2018-06-21 01:30:01
+date:   2018-06-01 01:30:01
 categories: [ blog, vat ]
 
 ---
 
-
-Czy hasło _split payment_ brzmi znajomo?
-Już od 1 lipca 2018 roku ustawą o VAT wprowadzony zostanie mechanizm podzielonej płatności, czyli właśnie _split payment_.
+Czy hasło "split payment" brzmi znajomo?
+Już od 1 lipca 2018 roku ustawą o VAT wprowadzony zostanie mechanizm podzielonej płatności, czyli właśnie split payment.
 
 ### Co to takiego? Jak to działa?
 Od 1 lipca br. nabywca, który otrzymał fakturę za towar lub usługę, przy zapłacie będzie mógł podzielić cenę na dwie części:
@@ -34,3 +33,4 @@ Firma otrzyma pieniądze do swobodnego dysponowania, jeżeli wystąpi do naczeln
 
 ### Powód wprowadzenia split payment?
 Split payment ma być, wedle rządzących, wisienką na „vatowskim” torcie. Tylko z tego tytułu do 2028 r. Skarb Państwa ma zyskać aż 82 mld zł.
+
