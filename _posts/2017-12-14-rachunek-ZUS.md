@@ -5,7 +5,7 @@ date:   2017-12-14 01:30:01
 categories: [ blog, ZUS ]
 
 ---
-### Drogi Przedsiębiorco!
+Drogi Przedsiębiorco!
 
 Czy otrzymałeś list od ZUS dot. indywidualnego rachunku składkowego?
 
