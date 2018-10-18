@@ -7,6 +7,7 @@ categories: [ blog, ZUS ]
 ---
 ### Drogi Przedsiębiorco!
 
+<div class="text-justify">
 Czy otrzymałeś list od ZUS dot. indywidualnego rachunku składkowego?
 
 Od stycznia 2018 roku jednym przelewem opłacisz składki ZUS.
@@ -20,3 +21,4 @@ Zgodnie z nowymi przepisami unikalny numer rachunku składkowego składa się z 
 Przedsiębiorcy posiadający profil na Platformie Usług Elektronicznych ZUS będą mogli od 1 stycznia 2018 r. sprawdzić tam swój nowy numer konta składkowego.
 
 Warto podkreślić, że w przypadku, gdy przedsiębiorca, konsument i inne podmioty nie będą znać swoich indywidualnych rachunków składkowych, nie będą mogli opłacić składek w 2018 r. według starych zasad. Zgodnie z informacjami z ZUS-u istniejące rachunki bankowe przestaną działać 31 grudnia 2017 r. Jednak zgodnie z nowymi zasadami, w 2018 r. jednym przelewem opłacimy również zaległe składki za 2017 r. i bieżące składki.
+ </div>
