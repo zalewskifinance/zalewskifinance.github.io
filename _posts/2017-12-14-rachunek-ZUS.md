@@ -7,7 +7,7 @@ categories: [ blog, ZUS ]
 ---
 ### Drogi Przedsiębiorco!
 
-<center>...
+<center>
 Czy otrzymałeś list od ZUS dot. indywidualnego rachunku składkowego?
 
 Od stycznia 2018 roku jednym przelewem opłacisz składki ZUS.
