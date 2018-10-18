@@ -14,7 +14,7 @@ Deklaracje podatkowe można złożyć na trzy sposoby:
 
 Podatnicy, którzy nie złożą PIT w obowiązującym terminie, muszą się liczyć z konsekwencjami, gdyż fiskus może nałożyć karę pieniężną. Warto więc rozliczyć PIT terminowo nawet w przypadku, gdy dysponujemy niepełnymi danymi. W późniejszym terminie można uzupełnić rozliczenie składając korektę.
 
-### Nie wszyscy są zobowiązani do złożenia rozliczenia PIT. 
+### Nie wszyscy są zobowiązani do złożenia rozliczenia PIT
 Obowiązek taki nie dotyczy osób, które nie osiągnęły w roku podatkowym żadnych przychodów, albo tylko takie, które nie podlegały opodatkowaniu.
 
 Jeśli jednak musisz rozliczyć PIT masz możliwość skorzystania z następujący ulg:
