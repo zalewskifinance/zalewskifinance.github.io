@@ -22,9 +22,8 @@ W przypadku nowych przedsiębiorców (działalność gospodarcza prowadzona kró
 Wartość przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw włącznie z wypłatami z zysku za czwarty kwartał 2017 roku stanowi podstawę do wyliczenia składki na ubezpieczenie zdrowotne dla osób prowadzących działalność gospodarczą. To przeciętne miesięczne wynagrodzenie wg GUS wyniosło 4 739,91 zł. 
 Podstawę wyliczenia składki zdrowotnej stanowi 75% tej wartości, czyli kwota 3 554,93 zł.
 
-Szczegółowe wartości składek ZUS na 2018 rok znajdują się w tabeli.
-
 Osoby fizyczne opłacające składkę wyłącznie za siebie mają czas do 10. dnia następnego miesiąca, czyli za styczeń do 10.02.2018. Z racji tego, że termin przypada na sobotę, zapłacić można do poniedziałku - 12.02.2018.
 
 Warto wiedzieć, że nowe zasady naliczania składek ZUS, które umożliwią najmniejszym przedsiębiorcom obniżenie wysokości tej daniny, mają zostać wprowadzone w 2019 roku. 
+
 Zasadniczą częścią projektu jest wprowadzenie wyraźnie niższej składki ZUS dla małych firm (stanowiącej około 60 procent tej obecnie obowiązującej), czyli takich, których miesięczne obroty nie przekraczają 2,5-krotności minimalnego wynagrodzenia, czyli w warunkach roku 2018 byłaby to kwota 5 250 zł.
