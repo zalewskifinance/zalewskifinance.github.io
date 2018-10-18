@@ -5,17 +5,7 @@ date:   2017-12-14 01:30:01
 categories: [ blog, ZUS ]
 
 ---
-
-
-Czy hasło _split payment_ brzmi znajomo?
-Już od 1 lipca 2018 roku ustawą o VAT wprowadzony zostanie mechanizm podzielonej płatności, czyli właśnie _split payment_.
-
-### Co to takiego? Jak to działa?
-Od 1 lipca br. nabywca, który otrzymał fakturę za towar lub usługę, przy zapłacie będzie mógł podzielić cenę na dwie części:
-- kwota netto będzie trafiała na zwykły rachunek bankowy, 
-- pozostała część - na oddzielny rachunek VAT.
-
-Drogi Przedsiębiorco!
+### Drogi Przedsiębiorco!
 
 Czy otrzymałeś list od ZUS dot. indywidualnego rachunku składkowego?
 
