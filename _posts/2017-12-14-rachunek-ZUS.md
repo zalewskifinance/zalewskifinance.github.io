@@ -23,3 +23,4 @@ Przedsiębiorcy posiadający profil na Platformie Usług Elektronicznych ZUS bę
 Warto podkreślić, że w przypadku, gdy przedsiębiorca, konsument i inne podmioty nie będą znać swoich indywidualnych rachunków składkowych, nie będą mogli opłacić składek w 2018 r. według starych zasad. Zgodnie z informacjami z ZUS-u istniejące rachunki bankowe przestaną działać 31 grudnia 2017 r. Jednak zgodnie z nowymi zasadami, w 2018 r. jednym przelewem opłacimy również zaległe składki za 2017 r. i bieżące składki.
 
 > Przykład
+-=Przykład=-
