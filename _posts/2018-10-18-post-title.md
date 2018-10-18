@@ -1,4 +1,4 @@
-ayout: post
+layout: post
 title:  "Split payment, czyli nie taki diabeł straszny"
 date:   2018-06-21 01:30:01
 categories: [ blog, vat ]
