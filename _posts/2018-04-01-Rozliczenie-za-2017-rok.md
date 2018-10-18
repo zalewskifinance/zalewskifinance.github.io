@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Niedługo mija termin złożenia zeznania podatkowego za 2017 rok"
+title:  "Zbliża się termin rozliczenia podatku dochodowego za rok 2017"
 date:   2018-04-01 01:30:01
 categories: [ blog, pit ]
 ---
-
-### Zbliża się termin rozliczenia podatku dochodowego za rok 2017.
 
 W dniu 30 kwietnia 2018 mija termin rozliczenia PIT 36 (działalność gospodarcza, najem), PIT 36L (podatek liniowy), PIT 37 (umowa o pracę), PIT 38 (kapitały pieniężne), PIT 39 (nieruchomości).
 
