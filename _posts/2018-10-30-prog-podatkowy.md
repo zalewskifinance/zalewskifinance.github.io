@@ -27,6 +27,19 @@ Wyobraźmy sobie, że jedno z małżonków zarobiło w całym roku np. 150.000 z
 
 W związku z powyższym bardziej ekonomiczne jest złożenie jednego zeznania i rozliczenie się wspólnie z małżonkiem. Kwota 150.000 złotych zostanie wówczas „podzielona” między dwie osoby, co spowoduje, że żadna z nich nie przekroczy drugiego progu podatkowego.
 
+## Propozycja dla przedsiębiorców
+Kiedy przedsiębiorca w trakcie roku podatkowego zbliża się do przekroczeniu drugiego progu podatkowego, pierwszym sposobem na obniżenie dochodu jest zwiększenie kosztów uzyskania przychodów, najczęściej – przez inwestycje. Najczęściej dokonywane inwestycje to:
+
+✔️zakup środków trwałyc,
+
+✔️kursy i szkolenia dla przedsiębiorcy lub pracowników,
+
+✔️skorzystanie z outsourcingu na podstawie umów cywilnoprawnych – np. na prowadzenie firmowego bloga, na stworzenie i ulepszenie strony internetowej,
+
+✔️zakup specjalistycznego oprogramowania.
+
+Mądrze przeprowadzone inwestycje nie tylko obniżają podstawę opodatkowania, ale także pozwalają na prężny rozwój działalności i maksymalizowanie przychodów w przyszłości.
+
 ## A może podatek liniowy?
 Kolejną z metod uniknięcia płacenia 32% podatku jest rozliczanie się podatkiem liniowym.
 Jego stawka ma stałą wysokość, która wynosi 19% – niezależnie od uzyskiwanego dochodu, który może pochodzić z różnych źródeł, w tym ze stosunku pracy, z pozarolniczej działalności gospodarczej, z emerytury, z przychodów z najmu prywatnego itd.
