@@ -5,6 +5,10 @@ date:   2018-10-30 01:30:01
 categories: [ blog, PIT, próg podatkowy ]
 ---
 
+
+ <p class="align-jestify">
+                    <strong>Moim celem jest kreatywne wsparcie klientów w prowadzeniu ich biznesu.</strong>
+</p>
 <img class="image " src="images/brands/sggw.png" alt=""/>
 
 Koniec roku to często czas, w którym nasze dochody liczone narastająco od początku roku są na tyle wysokie, że „wpadamy” w drugi próg podatkowy.
