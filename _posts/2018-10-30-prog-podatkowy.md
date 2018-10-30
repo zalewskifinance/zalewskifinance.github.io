@@ -29,7 +29,7 @@ Wyobraźmy sobie, że jedno z małżonków zarobiło w całym roku np. 150.000 z
 
 W związku z powyższym bardziej ekonomiczne jest złożenie jednego zeznania i rozliczenie się wspólnie z małżonkiem. Kwota 150.000 złotych zostanie wówczas „podzielona” między dwie osoby, co spowoduje, że żadna z nich nie przekroczy drugiego progu podatkowego.
 
-## Podatek liniowy
+## A może podatek liniowy?
 Kolejną z metod uniknięcia płacenia 32% podatku jest rozliczanie się podatkiem liniowym.
 Jego stawka ma stałą wysokość, która wynosi 19% – niezależnie od uzyskiwanego dochodu, który może pochodzić z różnych źródeł, w tym ze stosunku pracy, z pozarolniczej działalności gospodarczej, z emerytury, z przychodów z najmu prywatnego itd.
 
