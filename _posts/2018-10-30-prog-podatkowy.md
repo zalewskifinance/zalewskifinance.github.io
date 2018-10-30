@@ -4,11 +4,6 @@ title:  "Drugi próg podatkowy"
 date:   2018-10-30 01:30:01
 categories: [ blog, PIT, próg podatkowy ]
 ---
-
-
-
-
-
 Koniec roku to często czas, w którym nasze dochody liczone narastająco od początku roku są na tyle wysokie, że „wpadamy” w drugi próg podatkowy.
 
 W Polsce obowiązują dwa podstawowe progi podatkowe. 
@@ -46,4 +41,4 @@ Należy jednak pamiętać, że wybór podatku liniowego wyklucza przywileje poda
 
 Formę opodatkowania deklaruje się najpóźniej do 20 stycznia. W przypadku braku deklaracji płatnik rozlicza się według skali podatkowej. 
 
-<img class="image " src="images/icons2/drugiprog.png" alt=""/>
+
