@@ -5,6 +5,8 @@ date:   2018-10-30 01:30:01
 categories: [ blog, PIT, próg podatkowy ]
 ---
 
+![foto](`site`.`url`/images/icons2/drugiprog.png )
+
 
 Koniec roku to często czas w którym nasze dochody liczone narastająco od początku roku są na tyle wysokie, że „wpadamy” w drugi próg podatkowy.
 
