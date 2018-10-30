@@ -34,8 +34,10 @@ Kolejną z metod uniknięcia płacenia 32% podatku jest rozliczanie się podatki
 Jego stawka ma stałą wysokość, która wynosi 19% – niezależnie od uzyskiwanego dochodu, który może pochodzić z różnych źródeł, w tym ze stosunku pracy, z pozarolniczej działalności gospodarczej, z emerytury, z przychodów z najmu prywatnego itd.
 
 Należy jednak pamiętać, że wybór podatku liniowego wyklucza przywileje podatkowe takie jak:
-❌ wspólne rozliczenie z małżonkiem,
-❌ korzystanie z większości ulg podatkowych,
-❌ preferencyjne rozliczenie przewidziane dla osób samotnie wychowujących dzieci.
+*❌ wspólne rozliczenie z małżonkiem,
+*❌ korzystanie z większości ulg podatkowych,
+*❌ preferencyjne rozliczenie przewidziane dla osób samotnie wychowujących dzieci.
 
 Formę opodatkowania deklaruje się najpóźniej do 20 stycznia. W przypadku braku deklaracji płatnik rozlicza się według skali podatkowej. 
+
+![podpis_obrazka](link do obrazka)
