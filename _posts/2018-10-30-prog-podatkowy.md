@@ -9,12 +9,13 @@ categories: [ blog, PIT, próg podatkowty ]
 
 Koniec roku to często czas w którym nasze dochody liczone narastająco od początku roku są na tyle wysokie, że „wpadamy” w drugi próg podatkowy.
 
-W Polsce obowiązują dwa podstawowe progi podatkowe. Niższy wynosi 18% i – według Ministerstwa Finansów – znajduje się w nim około 97% pracujących Polaków
+W Polsce obowiązują dwa podstawowe progi podatkowe. 
+Niższy wynosi 18% i – według Ministerstwa Finansów – znajduje się w nim około 97% pracujących Polaków.
 
 ## Pierwszy próg podatkowy
 
 Obejmuje on osoby, które w danym roku podatkowym zarobiły nie więcej niż 85.528 zł.
-Każda osoba znajdująca się w pierwszym progu podatkowym opłaca daninę w wysokości 18%. Pracownik nie musi o tym myśleć. Po prostu pracodawca ma obowiązek pomniejszyć kwotę wypłaty o podatek, wynoszący 18%.
+Każda osoba znajdująca się w pierwszym progu podatkowym opłaca daninę w wysokości 18%. Pracownik nie musi o tym myśleć. Po prostu pracodawca ma obowiązek pomniejszyć kwotę wypłaty o podatek.
 
 ## Drugi próg podatkowy
 
@@ -30,7 +31,7 @@ Wyobraźmy sobie, że jedno z małżonków zarobiło w całym roku np. 150.000 z
 W związku z powyższym bardziej ekonomiczne jest złożenie jednego zeznania i rozliczenie się wspólnie z małżonkiem. Kwota 150.000 złotych zostanie wówczas „podzielona” między dwie osoby, co spowoduje, że żadna z nich nie przekroczy drugiego progu podatkowego.
 
 ## Podatek liniowy
-Kolejną z metod uniknięcia płacenia 32% podatku jest rozliczanie się według podatku liniowego.
+Kolejną z metod uniknięcia płacenia 32% podatku jest rozliczanie się podatkiem liniowym.
 Jego stawka ma stałą wysokość, która wynosi 19% – niezależnie od uzyskiwanego dochodu, który może pochodzić z różnych źródeł, w tym ze stosunku pracy, z pozarolniczej działalności gospodarczej, z emerytury, z przychodów z najmu prywatnego itd.
 
 Należy jednak pamiętać, że wybór podatku liniowego wyklucza przywileje podatkowe takie jak:
