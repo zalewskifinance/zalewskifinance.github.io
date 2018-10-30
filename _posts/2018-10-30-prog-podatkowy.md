@@ -31,8 +31,11 @@ W związku z powyższym bardziej ekonomiczne jest złożenie jednego zeznania i 
 Kiedy przedsiębiorca w trakcie roku podatkowego zbliża się do przekroczeniu drugiego progu podatkowego, pierwszym sposobem na obniżenie dochodu jest zwiększenie kosztów uzyskania przychodów, najczęściej – przez inwestycje. Najczęściej dokonywane inwestycje to:
 
 ✔️zakup środków trwałych,
+
 ✔️kursy i szkolenia dla przedsiębiorcy lub pracowników,
-✔️skorzystanie z outsourcingu na podstawie umów cywilnoprawnych – np. na prowadzenie firmowego bloga, na stworzenie i ulepszenie strony internetowej,
+
+✔️skorzystanie z outsourcingu na przykład na prowadzenie firmowego bloga, na stworzenie i ulepszenie strony internetowej,
+
 ✔️zakup specjalistycznego oprogramowania.
 
 Mądrze przeprowadzone inwestycje nie tylko obniżają podstawę opodatkowania, ale także pozwalają na prężny rozwój działalności i maksymalizowanie przychodów w przyszłości.
