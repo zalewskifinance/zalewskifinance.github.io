@@ -6,10 +6,8 @@ categories: [ blog, PIT, próg podatkowy ]
 ---
 
 
- <p class="align-jestify">
-                    <strong>Moim celem jest kreatywne wsparcie klientów w prowadzeniu ich biznesu.</strong>
-</p>
-<img class="image " src="images/brands/sggw.png" alt=""/>
+
+
 
 Koniec roku to często czas, w którym nasze dochody liczone narastająco od początku roku są na tyle wysokie, że „wpadamy” w drugi próg podatkowy.
 
@@ -48,4 +46,4 @@ Należy jednak pamiętać, że wybór podatku liniowego wyklucza przywileje poda
 
 Formę opodatkowania deklaruje się najpóźniej do 20 stycznia. W przypadku braku deklaracji płatnik rozlicza się według skali podatkowej. 
 
-
+<img class="image " src="images/icons2/drugiprog.png" alt=""/>
