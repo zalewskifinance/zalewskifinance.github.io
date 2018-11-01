@@ -42,7 +42,7 @@ Mądrze przeprowadzone inwestycje nie tylko obniżają podstawę opodatkowania, 
 
 ## A może podatek liniowy?
 Kolejną z metod uniknięcia płacenia 32% podatku jest rozliczanie się podatkiem liniowym.
-Jego stawka ma stałą wysokość, która wynosi 19% – niezależnie od uzyskiwanego dochodu, który może pochodzić z różnych źródeł, w tym ze stosunku pracy, z pozarolniczej działalności gospodarczej, z emerytury, z przychodów z najmu prywatnego itd.
+Jego stawka ma stałą wysokość, która wynosi 19% – niezależnie od uzyskiwanego dochodu. Z tej opcji mogą skorzystać osoby prowadzące działalność.
 
 Należy jednak pamiętać, że wybór podatku liniowego wyklucza przywileje podatkowe takie jak:
 
