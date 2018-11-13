@@ -34,7 +34,7 @@ Kwota wolna od podatku obowiązuje podatników PIT-36 lub PIT-37.
 ## Kwota wolna od podatku a IKZE
 Indywidualne Konto Zabezpieczenia Emerytalnego to rachunek, na którym gromadzi się prywatne oszczędności na emeryturę. 
 Dobrze wiedzieć, że wpłaty przelewane na IKZE można odpisać od podstawy opodatkowania podatkiem PIT i zapłacić niższy podatek.  
-Dlatego warto każdego roku wykorzystywać całkowity limit wpłat na IKZE (5331,60 zł w 2018 r.) – im więcej wpłacimy na IKZE, tym mniej podatku dochodowego zapłacimy.
+Dlatego warto każdego roku wykorzystywać całkowity limit wpłat na IKZE (5.331,60 zł w 2018 r.) – im więcej wpłacimy na IKZE, tym mniej podatku dochodowego zapłacimy.
 
 ## Ciekawostka
 Według raportu z 2016 roku „Praca w Unii Europejskiej – podatki i składki” przygotowanego przez PwC Polska, tak kształtowały się kwoty wolne od podatku w poszczególnych krajach:
