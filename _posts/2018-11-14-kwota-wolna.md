@@ -1,13 +1,5 @@
 ---
 layout: post
-title:  "Drugi próg podatkowy"
-date:   2018-10-30 01:30:01
-categories: [ blog, PIT, próg podatkowy ]
----
-
-
----
-layout: post
 title:  "Kwota wolna od podatku"
 date:   2018-11-14 01:30:01
 categories: [ blog, PIT, kwota wolna od podatku ]
