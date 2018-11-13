@@ -13,7 +13,7 @@ Ale czy masz świadomość, że nie każdy ma przywilej z niej korzystać?
 
 Do końca 2016 roku wynosiła ona 3.091 zł. W 2017 roku kwota wolna od podatku wynosiła 6.600 zł. 
 
-Podstawową kwotą wolną od podatku w 2018 roku będzie 8.000 zł. 
+## Podstawową kwotą wolną od podatku w 2018 roku będzie 8.000 zł. 
 
 Kwota ta będzie zależna od wysokości dochodu według następującego schematu:
 
