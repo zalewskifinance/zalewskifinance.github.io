@@ -38,25 +38,7 @@ Dlatego warto każdego roku wykorzystywać całkowity limit wpłat na IKZE (5.33
 ## Ciekawostka
 Według raportu z 2016 roku „Praca w Unii Europejskiej – podatki i składki” przygotowanego przez PwC Polska, tak kształtowały się kwoty wolne od podatku w poszczególnych krajach:
 
-Cypr              19.500 euro
-
-Wielka Brytania   14.100 euro
-
-Austria           10.000 euro
-
-Niemcy            8.652 euro
-
-Francja           5.963 euro
-
-Szwecja           do ok. 3.600 euro
-
-Grecja            2.100 euro
-
-Czechy            895 euro
-
-Polska            ok. 750 euro (3.091 zł)
-
-   <div class="table-wrapper small align-left">
+<div class="table-wrapper small align-left">
             <table class="small">
                 <tbody>
                 <tr>
