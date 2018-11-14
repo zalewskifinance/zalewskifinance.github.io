@@ -16,15 +16,15 @@ Do końca 2016 roku wynosiła ona 3.091 zł. W 2017 roku kwota wolna od podatku 
 
 Kwota ta będzie zależna od wysokości dochodu według następującego schematu:
 
-▶️ gdy dochód będzie niższy niż 8.000 zł, kwota wolna wyniesie 8.000 zł (podatnik nie zapłaci podatku),
+- gdy dochód będzie niższy niż 8.000 zł, kwota wolna wyniesie 8.000 zł (podatnik nie zapłaci podatku),
 
-▶️ gdy dochód zamknie się w przedziale od 8.000 zł do 13.000 zł, kwota wyniesie na zasadzie degresji od 8.000 zł do 3.091 zł,
+- gdy dochód zamknie się w przedziale od 8.000 zł do 13.000 zł, kwota wyniesie na zasadzie degresji od 8.000 zł do 3.091 zł,
 
-▶️ gdy dochód będzie wyższy niż 13.000 zł, ale niższy niż 85.528 zł to kwota wolna od podatku wyniesie 3.091 zł (wartość stała),
+- gdy dochód będzie wyższy niż 13.000 zł, ale niższy niż 85.528 zł to kwota wolna od podatku wyniesie 3.091 zł (wartość stała),
 
-▶️ przy dochodzie między 85.528 zł a 127.000 zł kwota wyniesie od 3.091 zł do 1 zł (według degresji),
+- przy dochodzie między 85.528 zł a 127.000 zł kwota wyniesie od 3.091 zł do 1 zł (według degresji),
 
-▶️ przy dochodzie przekraczającym 127.000 zł kwota wolna od podatku nie wystąpi.
+- przy dochodzie przekraczającym 127.000 zł kwota wolna od podatku nie wystąpi.
 
 Tak więc okazuje się, że kwota została podwyższona dla najuboższych, a zabrana osobom zarabiającym najwięcej.
 
