@@ -75,6 +75,26 @@ Polska            ok. 750 euro (3.091 zł)
                     <td>Niemcy </td>
                     <td>8.652 euro</td>
                 </tr>
+                     <tr>
+                    <td>Francja </td>
+                    <td>5.963 euro</td>
+                </tr>
+                     <tr>
+                    <td>Szwecja </td>
+                    <td>do ok. 3.600 euro</td>
+                </tr>
+                     <tr>
+                    <td>Grecja </td>
+                    <td>2.100 euro</td>
+                </tr>
+                     <tr>
+                    <td>Czechy  </td>
+                    <td>895 euro</td>
+                </tr>
+                     <tr>
+                    <td>Polska </td>
+                    <td>ok. 750 euro (3.091 zł)</td>
+                </tr>
                 </tbody>
             </table>
 </div>
