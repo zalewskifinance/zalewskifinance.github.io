@@ -58,28 +58,22 @@ Polska            ok. 750 euro (3.091 zł)
 
    <div class="table-wrapper small align-left">
             <table class="small">
-                <thead>
-                <tr>
-                    <th>Nazwa</th>
-                    <th>Cena</th>
-                </tr>
-                </thead>
                 <tbody>
                 <tr>
-                    <td>Umowa o pracę</td>
-                    <td>40,00 zł/osoba na miesiąc</td>
+                    <td>Cypr</td>
+                    <td>19.500 euro</td>
                 </tr>
                 <tr>
-                    <td>Umowa zlecenie osoby podlegającej obowiązkowemu ubezpieczeniu emerytalno-rentowemu</td>
-                    <td>40,00 zł/osoba na miesiąc (wypłatę)</td>
+                    <td>Wielka Brytania</td>
+                    <td>14.100 euro             </td>
                 </tr>
                 <tr>
-                    <td>Umowa o dzieło</td>
-                    <td>20,00 zł/osoba na miesiąc (wypłatę)</td>
+                    <td>Austria</td>
+                    <td> 10.000 euro</td>
                 </tr>
                 <tr>
-                    <td>Inna umowa cywilno-prawna</td>
-                    <td>20,00 zł/osoba na miesiąc (wypłatę)</td>
+                    <td>Niemcy </td>
+                    <td>8.652 euro</td>
                 </tr>
                 </tbody>
             </table>
