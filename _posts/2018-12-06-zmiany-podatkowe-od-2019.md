@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zmiany podatkowe od 01-01-2019"
-date:   2018-12-06 01:30:01
+date:   2018-12-05 01:30:01
 categories: [ blog, leasing, zmiany od 2019 roku, samochód osobowy ]
 ---
 
