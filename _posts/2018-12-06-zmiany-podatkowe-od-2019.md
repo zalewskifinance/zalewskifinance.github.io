@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Zmiany w rozliczaniu samochodów osobowych od 01-01-2019"
+title:  "Zmiany w rozliczaniu samochodów osobowych od 01.01.2019"
 date:   2018-12-05 01:30:01
 categories: [ blog, leasing, zmiany od 2019 roku, samochód osobowy ]
 ---
 
-### Zmiany dotyczące firmowych samochodów osobowych
 Tak jak każdego roku, także od 01.01.2019 szukują się zmiany prawa podatowego. 
 Wśród zmian są nowe zasady rozliczania kosztów podatkowych dotyczących firmowych samochodów osobowych. Od 2019 roku zmienią się w szczególności zasady rozliczania amortyzacji samochodów osobowych, leasingu i kosztów eksploatacyjnych.
 
