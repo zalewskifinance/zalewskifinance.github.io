@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zmiany w rozliczaniu samochodów osobowych od 01.01.2019"
+title:  "Zmiany od 01.01.2019 w rozliczaniu samochodów osobowych "
 date:   2018-12-05 01:30:01
 categories: [ blog, leasing, zmiany od 2019 roku, samochód osobowy ]
 ---
