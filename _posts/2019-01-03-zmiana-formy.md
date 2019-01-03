@@ -7,9 +7,9 @@ categories: [ blog, PIT, zmiana formy opodatkowania ]
 
 ### Ważne: Do dn. 20.02.2019 jest szansa na zmianę formy opodatkowania przychodów
 
-Dobrze wybrana forma opodatkowaniapomoże zaoszczędzić firmie sporo pieniędzy, źle - może spowodować nawet bankructwo. 
+Dobrze wybrana forma opodatkowania pomoże zaoszczędzić firmie sporo pieniędzy, natomiast źle - może spowodować nawet bankructwo. 
 
-Podatnik ma do wyboru 4 formy opodatkowania i ma możliwość obraną formę zmienić w nowym roku, składając wniosek o zmianę formy opodatkowania w terminie do 20 dnia miesiąca następującego po miesiącu, w którym uzyskał pierwszy przychód w nowym roku (czytaj do 20. lutego).
+Podatnik ma do wyboru 4 formy opodatkowania i istnieje możliwość zmiany tej formy w nowym roku, składając wniosek o zmianę formy opodatkowania w terminie do 20 dnia miesiąca następującego po miesiącu, w którym uzyskał pierwszy przychód w nowym roku (generalnie: do 20. lutego).
 
 Poniżej przedstawiamy krótkie informacje na temat form opodatkowania:
 
@@ -33,11 +33,12 @@ Tę formę opodatkowania wybierają tylko ci, którzy wymienieni są w art. 23 u
 ### Jak zawiadomić?
 Aby dokonać zmiany formy opodatkowania, podatnik powinien wypełnić formularz CEIDG-1. Może to zrobić przez internet.
 
-Dokonany wybór sposobu opodatkowania, dotyczy również lat następnych, chyba że w kolejnych latach podatnik zawiadomi w formie pisemnej właściwego naczelnika urzędu skarbowego o rezygnacji z tego sposobu opodatkowania.
+Dokonany wybór sposobu opodatkowania, dotyczy również lat następnych, chyba że w kolejnych latach podatnik zawiadomi w formie pisemnej Urząd Skarbowy o rezygnacji z tego sposobu opodatkowania.
 
-Podsumowując
+### Podsumowując
 Nie ma formy opodatkowania, która miała same zalety. Przedsiębiorcy muszą znaleźć tak naprawdę złoty środek, na którym ich kieszeń najmniej ucierpi. 
 
-W razie wątpliwości najlepiej skonsultować się ze specjalistą, który pomoże w optymalizacji płaconych podatków.
+Jest jeszcze trochę czasu na przeanalizowanie sytuacji i podjęcie decyzji. 
+W razie wątpliwości zapraszamy do kontaktu.
 
 
