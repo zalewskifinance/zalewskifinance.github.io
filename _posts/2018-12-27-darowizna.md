@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jak mądrze pomagać?"
-date:   2018-12-28 01:30:01
+date:   2018-12-27 01:30:01
 categories: [ blog, darowizna, PIT ]
 ---
 
