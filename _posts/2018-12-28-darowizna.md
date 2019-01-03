@@ -4,6 +4,7 @@ title:  "Jak mądrze pomagać?"
 date:   2018-12-28 01:30:01
 categories: [ blog, darowizna, PIT ]
 ---
+
 ### Czy wiesz, że przekazana darowizna może obniżyć wysokość podatku do zapłaty w rozliczeniu rocznym PIT❓
 
 Zbliża się wielkie narodowe święto – WOŚP. Miliony Polaków wrzucą do puszki choć przysłowiowy grosz, jednak może warto zrobić przelew na rzecz tej organizacji i dzięki temu zmniejszyć podatek do zapłaty?
