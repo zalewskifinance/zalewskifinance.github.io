@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zmiana formy opodatkowania"
-date:   2019-01-03 22:30:01
+date:   2019-01-03 14:30:01
 categories: [ blog, PIT, zmiana formy opodatkowania ]
 ---
 
