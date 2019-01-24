@@ -30,7 +30,7 @@ Po zmianach, w wersji PIT-8C (9), nadal będzie on pełnić funkcje informacyjne
 
 Mianowicie od 1 stycznia 2019 r. wspomniana informacja, która do tej pory była przeznaczona do wykazywania w niej danych o przychodach z innych źródeł oraz o przychodach ze stypendiów studenckich – posłuży tylko i wyłącznie do informowania o przychodach z kapitałów pieniężnych, o których mowa w art. 30b ust. 2 ustawy o PIT (ujmowanych w zeznaniu PIT-38). 
 
-W konsekwencji, w związku ze zmianą przeznaczenia, nie będzie się już ona nazywać „Informacją o wypłaconym stypendium, o przychodach z innych źródeł oraz o niektórych dochodach z kapitałów pieniężnych” lecz „Informacją o niektórych dochodach z kapitałów pieniężnych”. 
+W konsekwencji, w związku ze zmianą przeznaczenia, nie będzie się już ona nazywać „Informacją o wypłaconym stypendium, o przychodach z innych źródeł oraz o niektórych dochodach z kapitałów pieniężnych”, lecz „Informacją o niektórych dochodach z kapitałów pieniężnych”. 
 
 Znajdą się w niej (w części D) dane o przychodach kapitałowych obejmujące:
 
