@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zmiana przeznaczenia PIT-8C"
+title:  "Zmiana przeznaczenia formularza PIT-8C"
 date:   2019-01-24 00:36:00
 categories: [ blog, PIT-8C, PIT-11 ]
 ---
