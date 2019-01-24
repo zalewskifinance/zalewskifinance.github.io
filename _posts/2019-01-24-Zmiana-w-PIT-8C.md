@@ -33,8 +33,13 @@ Mianowicie od 1 stycznia 2019 r. wspomniana informacja, która do tej pory była
 W konsekwencji, w związku ze zmianą przeznaczenia, nie będzie się już ona nazywać „Informacją o wypłaconym stypendium, o przychodach z innych źródeł oraz o niektórych dochodach z kapitałów pieniężnych” lecz „Informacją o niektórych dochodach z kapitałów pieniężnych”. 
 
 Znajdą się w niej (w części D) dane o przychodach kapitałowych obejmujące:
+
 ▪ odpłatne zbycie papierów wartościowych,
+
 ▪ realizację praw wynikających z papierów wartościowych,
+
 ▪ odpłatne zbycie pochodnych instrumentów finansowych oraz realizacja praw z nich wynikających,
+
 ▪ odpłatne zbycie niebędących papierami wartościowymi udziałów (akcji) w spółkach,
+
 ▪ objęcie udziałów (akcji) w spółkach albo wkładów w spółdzielniach w zamian za wkład niepieniężny w innej postaci niż przedsiębiorstwo lub jego zorganizowana część.
