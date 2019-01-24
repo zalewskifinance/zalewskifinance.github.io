@@ -5,7 +5,7 @@ date:   2019-01-24 00:36:00
 categories: [ blog, PIT-8C, PIT-11 ]
 ---
 
-### Od 1 stycznia 2019 r. zmieniło się przeznaczenie formularza PIT-8C
+# Od 1 stycznia 2019 r. zmieniło się przeznaczenie formularza PIT-8C
 
 Począwszy od nowego 2019 roku płatnicy nie będą już wykazywali przychodów z innych źródeł ani stypendiów studenckich w informacji PIT-8C. 
 Posłuży im o tego zmodyfikowany formularz PIT-11.
